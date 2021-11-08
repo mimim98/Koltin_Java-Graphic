@@ -6,7 +6,6 @@ the basic project template in Android Studio.
 2. To develop an Android application with the following capability :-
 
     a. Draw shapes using Canvas library.
-
     i. Given the canvas size is at 400 width and 400 height, write an algorithm
        to be able to draw a 2 x 2 and 3 x 3 square within the canvas image.
 
